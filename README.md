@@ -41,7 +41,7 @@ GitHub: https://github.com/siazur/safeboard
 - **Удаление** — нажмите на крестик в строке пользователя и подтвердите удаление
 
 ## Структура проекта
-
+```
 safeboard/
     - public/
     - src/
@@ -71,6 +71,7 @@ safeboard/
     - db.json
     - package.json
     - README.md
+```
 
 ## Выводы по проектированию UI
 
